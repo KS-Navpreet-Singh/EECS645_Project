@@ -1,0 +1,6 @@
+Follow instructions here:
+http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
+
+download cygwin then cd c:// then to makefile
+
+Download GitBash to link to git
